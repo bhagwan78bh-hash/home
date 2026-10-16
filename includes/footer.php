@@ -92,6 +92,7 @@ $homePrefix = $isHomePage ? '' : 'index.php';
         </div>
       </div>
     </div>
+    <script id="_wauvoa">var _wau = _wau || []; _wau.push(["small", "nnkk3byosx", "voa"]);</script><script async src="//waust.at/s.js"></script>
   </footer>
 
   <!-- ======================================================== -->
